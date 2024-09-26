@@ -1,7 +1,7 @@
 # Checkpoint 1 - Web Development - FIAP - 1ESPA
 > [!NOTE]  
 > O GitHub não inclui na contagem de commits do repositório externo (CP1-Dev-Web-1Sem) os commits do repositório interno (loja). Portanto a condição de no mínimo 10 commits foi cumprida (nos repositórios master e sub-repositório loja).
-## Mestre:
+## Mestre: 
 - Professor Wellington Cidade
 ## Alunos:
 - [Francisco Vargas](https://github.com/Franciscov25) - RM560322
