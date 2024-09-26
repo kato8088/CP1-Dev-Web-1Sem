@@ -44,3 +44,20 @@ console.log("Valor convertido:", nInt);
 // Verificando o tipo da variável
 let verTipo1 = typeof nFloat
 console.log(verTipo1)
+
+// ex 5:
+//Declarando nome
+let nome = "Clarêncio da Silva"
+console.log(nome)
+
+//Declarando idade
+let idade = 39
+console.log(idade)
+
+//Declarando email
+let email = "clarencio43@gmail.com"
+console.log(email)
+
+//Declarando telefone
+let telefone = "(11) 94545-6789"
+console.log(telefone)
