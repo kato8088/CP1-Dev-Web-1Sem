@@ -31,3 +31,16 @@ console.log("Valor convertido:", numeroFloat);
 // Verificando o tipo da variável após a conversão
 let verTipo = typeof numeroInteiro
 console.log(verTipo);
+
+// ex 4:
+// Declarando variavel de tipo float
+let nFloat = 10.50;
+console.log("Valor original:", nFloat);
+
+// Convertendo para inteiro
+let nInt = parseInt(nFloat);
+console.log("Valor convertido:", nInt);
+
+// Verificando o tipo da variável
+let verTipo1 = typeof nFloat
+console.log(verTipo1)
